@@ -1,0 +1,44 @@
+learning from: https://www.youtube.com/watch?v=H1elmMBnykA&list=PL18g5eIicmelldjJFs_pREILAkG9cxOhd&index=23&t=395s
+-----------------------------------------------------------------------
+current learning focus for getting a new DevOps role:
+------------------------
+Languages to learn: python, bash/linux, groovy, javascript/reactjs
+Platforms: aws, jenkins
+
+Work on moms website
+Apply for more freelance work and some full time positions
+
+CONCEPTS TO KNOW
+----------------------------------------------------
+basic logic
+strings
+conditionals
+loops
+
+iter
+ranges
+
+dictionaries
+lists
+sets
+tuples
+--------------------------------------------------------
+
+'''
+Multiline comment
+'''
+
+COMMON METHODS
+-----------------------------------------------------------------------
+input() gets user input from command line
+type() can be used to determine object type
+
+DATA TYPES
+--------------------------------------------------------------------
+data is dynamically typed
+
+floats are only accurate up to 15 digits
+
+CONDITIONALS
+--------------------------------------------------------------------
+PYTHON USES INDENTATION FOR LOGIC, NOT BRACKETS
